@@ -1,3 +1,4 @@
+pip install streamlit
 pip install bcrypt
 
 import streamlit as st
